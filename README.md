@@ -47,9 +47,10 @@ class About extends Me {
 ```
 <hr></hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikrathod26&show_icons=true&locale=en&layout=compact" alt="hardikrathod26" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikrathod26&show_icons=true&locale=en&layout=compact" alt="hardikrathod26" width="32.5%" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikrathod26&show_icons=true&locale=en" alt="hardikrathod26" /></p>
+
 
 <hr></hr>
 
